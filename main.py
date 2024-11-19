@@ -2,4 +2,4 @@ from fastapi import FastAPI
 
 app = FastAPI()
 
-from api.app import bot_requests
+from api import bot_requests
