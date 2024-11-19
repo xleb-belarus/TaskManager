@@ -1,0 +1,1 @@
+To run API type in cmd 'uvicorn main:app --reload'
